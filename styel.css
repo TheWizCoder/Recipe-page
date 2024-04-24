@@ -35,6 +35,10 @@ p {
     padding-left: 20px;
 }
 
+.row-list ol, .row-list ul {
+    padding-left: 20px;
+}
+
 body {
     background-color: hsl(30, 54%, 90%);
     min-height: 100vh;
@@ -73,6 +77,7 @@ img {
 
 .preparation-time ul {
     margin-bottom: 0;
+    padding-left: 25px;
 }
 
 .row-list {
